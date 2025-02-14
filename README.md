@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and advanced JavaScript concepts**
 
-- 👯 I’m looking to collaborate on **Back End Development and Front End projects**
+- 👯 I’m looking to collaborate on **Back End and Front End Developments**
 
 - 🤝 I’m looking for **freshers job (passed**
 
