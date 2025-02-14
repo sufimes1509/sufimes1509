@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Back End and Front End Developments**
 
-- 🤝 I’m looking for **freshers job **
+- 🤝 I’m looking for **freshers job**
 
 - 📫 How to reach me (💌 Email:swethandccswetha@gmail.com)
 
